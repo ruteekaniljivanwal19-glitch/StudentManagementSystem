@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zest\\StudentManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|d:\\zest\\studentmanagement.api\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:43:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:25:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Program.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Program.cs",
+              "RelativeToolTip": "StudentManagement.API\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:23:58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Services\\StudentService.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement.API\\Services\\StudentService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:37:02.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement.API\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:36:08.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.API\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:33:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.API\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:32:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\DTOs\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\DTOs\\CreateStudentDto.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\DTOs\\CreateStudentDto.cs",
+              "RelativeToolTip": "StudentManagement.API\\DTOs\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:30:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\DTOs\\StudentDto.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "StudentManagement.API\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:29:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "StudentManagement.API\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:36:57.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:37:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagement.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:22:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentManagement.API\\appsettings.Development.json",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "StudentManagement.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:20:06.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Models\\Student.cs",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement.API\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:22:02.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement.API\\appsettings.json",
+              "ToolTip": "D:\\zest\\StudentManagement.API\\StudentManagement.API\\appsettings.json",
+              "RelativeToolTip": "StudentManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:19:52.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
